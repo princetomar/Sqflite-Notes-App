@@ -1,6 +1,8 @@
 # flutter_sql_tut
 
-A new Flutter project.
+This is a note taking app for daily use.
+This motivation behind it to learn about the sqflite package.
+It performs CRUD operations.
 
 ## Getting Started
 
